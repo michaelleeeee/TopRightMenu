@@ -71,6 +71,4 @@ mTopRightMenu
 OK, 拿去玩耍 ~
 
 # Ad
-我的[动漫礼品淘宝店]( https://shop238932691.taobao.com/) ，希望亲能收藏下(单)：
-
-![二维码](https://img.alicdn.com/imgextra/i1/769720206/TB2AnBVar0kpuFjy0FjXXcBbVXa_!!769720206.png)
+代码来自于其他GitHub账号，在此感谢作者给予的学习机会。望与君共勉，共同进步。
